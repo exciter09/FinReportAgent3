@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "edgar-report-mcp"
+version = "0.1.0"
+description = "MCP server for downloading cleaned SEC 10-K/10-Q markdown reports with edgartools."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "edgartools>=5.44.0",
+    "mcp>=2.0.0,<3.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+edgar-report-mcp = "edgar_mcp_server.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+edgar_mcp_server = ["company_aliases_zh.json"]

@@ -1,0 +1,12 @@
+{"id":"retrieval_001","query":"AAPL FY2023 10-K service segment sales","companies":["AAPL"],"years":[2023],"forms":["10-K"],"gold_terms":["Services net sales were $85.2 billion"]}
+{"id":"retrieval_002","query":"AAPL FY2023 10-K gross margin inputs","companies":["AAPL"],"years":[2023],"forms":["10-K"],"gold_terms":["Apple gross profit was $169.1 billion"]}
+{"id":"retrieval_003","query":"MSFT FY2023 10-K cloud segment sales","companies":["MSFT"],"years":[2023],"forms":["10-K"],"gold_terms":["Microsoft Cloud revenue was $111.6 billion"]}
+{"id":"retrieval_004","query":"MSFT FY2023 10-K cyber risk disclosure","companies":["MSFT"],"years":[2023],"forms":["10-K"],"gold_terms":["cybersecurity incidents"]}
+{"id":"retrieval_005","query":"NVDA FY2024 10-K data center segment sales","companies":["NVDA"],"years":[2024],"forms":["10-K"],"gold_terms":["Data Center revenue was $47.5 billion"]}
+{"id":"retrieval_006","query":"NVDA FY2024 10-K inventory balance prior year comparison","companies":["NVDA"],"years":[2024],"forms":["10-K"],"gold_terms":["Inventory was $5.3 billion"]}
+{"id":"retrieval_007","query":"TSLA FY2023 10-K automotive segment sales","companies":["TSLA"],"years":[2023],"forms":["10-K"],"gold_terms":["Automotive revenues were $82.4 billion"]}
+{"id":"retrieval_008","query":"AMZN FY2023 10-K cloud segment sales","companies":["AMZN"],"years":[2023],"forms":["10-K"],"gold_terms":["AWS net sales were $90.8 billion"]}
+{"id":"retrieval_009","query":"AAPL FY2024 10-Q service segment sales","companies":["AAPL"],"years":[2024],"forms":["10-Q"],"gold_terms":["Services net sales were $23.9 billion"]}
+{"id":"retrieval_010","query":"MSFT FY2024 10-Q cloud segment sales","companies":["MSFT"],"years":[2024],"forms":["10-Q"],"gold_terms":["Microsoft Cloud revenue was $35.1 billion"]}
+{"id":"retrieval_011","query":"AMZN FY2023 10-K capex amount","companies":["AMZN"],"years":[2023],"forms":["10-K"],"gold_terms":["Capital expenditures were $52.7 billion"]}
+{"id":"retrieval_012","query":"TSLA FY2023 10-K operating profit","companies":["TSLA"],"years":[2023],"forms":["10-K"],"gold_terms":["operating income was $8.9 billion"]}
